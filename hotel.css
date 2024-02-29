@@ -1,0 +1,42 @@
+img{
+    height: 700px;
+    width: 100%;
+}
+.text-overlay {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+  footer{
+background-color: black;
+height: 50px;
+color: aliceblue;
+align-items: center;
+  }
+  button{
+    background-color: darkcyan;
+    color: white;
+    height: 30px;
+    position: relative;
+  }
+  header{
+    background-color: lightcoral;
+    position: absolute;
+      top: 10%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+  }
+  nav{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+     align-items: center;
+  
+  }
